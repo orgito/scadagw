@@ -1,2 +1,2 @@
 # scadagw
-Gateway between Eface scada and TCP RTUs
+Gateway between Efacec scada and TCP RTUs
